@@ -11,6 +11,8 @@ It can be useful for companies automating their internal workflows to make life 
     - [Messaging](#messaging)
     - [Reports](#reports)
     - [PDF](#pdf)
+    - [Laws, Taxes, Government policies](#laws-taxes-government-policies)
+       -[Norway](#Norway)
 
 ##Workflows
 
@@ -50,3 +52,8 @@ It can be useful for companies automating their internal workflows to make life 
 * <a href="https://github.com/mstamy2/PyPDF2">PyPDF2</a> - A library capable of splitting, merging and transforming PDF pages.
 * <a href="http://www.xhtml2pdf.com/">xhtml2pdf</a> - HTML/CSS to PDF converter based on Python
 * <a href="http://appyframework.org/pod.html">pod (python open document)</a> - takes a LibreOffice or OpenOffice document as template and can generate PDF, RTF or ODT.
+
+##Laws, Taxes, Government policies
+
+### Norway
+ * <a href="https://github.com/wbond/vat_moss-python">VAT</a> - a Python library for dealing with VAT MOSS and Norway VAT on digital services. Includes VAT ID validation, rate calculation based on place of supply, exchange rate and currency tools for invoices.
