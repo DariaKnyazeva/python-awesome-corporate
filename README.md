@@ -6,3 +6,7 @@ It can be useful for companies automating their internal workflows to make life 
 ##Workflows
 
 Packages that do process, procedure and/or business tasks management.
+
+* <a href="https://github.com/viewflow/viewflow">django-viewflow</a> - reusable workflow library for Django.
+* <a href="https://github.com/carlio/django-flows/">django-flows</a> django-flows keeps state and position in complicated flows of logic, allowing optional branches and complicated paths through a series of individual user actions.
+* <a href="https://github.com/kmmbvnr/django-fsm/">django-fsm</a> - Django friendly finite state machine support
