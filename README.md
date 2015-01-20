@@ -5,8 +5,18 @@ It can be useful for companies automating their internal workflows to make life 
 
 ##Workflows
 
-Packages that do process, procedure and/or business tasks management.
+<i>Packages that do process, procedure and/or business tasks management.</i>
 
 * <a href="https://github.com/viewflow/viewflow">django-viewflow</a> - reusable workflow library for Django. Expresses people collaboration in the code as easy as in words and pictures.
 * <a href="https://github.com/carlio/django-flows/">django-flows</a> django-flows keeps state and position in complicated flows of logic, allowing optional branches and complicated paths through a series of individual user actions.
 * <a href="https://github.com/kmmbvnr/django-fsm/">django-fsm</a> - Django friendly finite state machine support
+
+
+##PDF
+
+<i>Libraries for parsing and manipulating PDFs.</i>
+
+* <a href="https://github.com/euske/pdfminer">PDFMiner</a> - A tool for extracting information from PDF documents.
+* <a href="https://github.com/mstamy2/PyPDF2">PyPDF2</a> - A library capable of splitting, merging and transforming PDF pages.
+* <a href="http://www.xhtml2pdf.com/">xhtml2pdf</a> - HTML/CSS to PDF converter based on Python
+* <a href="http://appyframework.org/pod.html">pod (python open document)</a> - takes a LibreOffice or OpenOffice document as template and can generate PDF, RTF or ODT.
