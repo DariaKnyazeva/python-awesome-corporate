@@ -3,6 +3,12 @@ List of awesome Python/Django apps for building corporate development tools. Ins
 
 It can be useful for companies automating their internal workflows to make life easier, to handle requests more efficiently and quickly, thus, more lucrative. Try not list here obvious world-wide known packages like `celery`, `pandas` etc. but less famous yet not less useful tools and frameworks.
 
+- [Python Awesome Corporate](#python-awesome-corporate)
+    - [Workflows](#workflows)
+    - [Forms](#forms)
+    - [Messaging](#messaging)
+    - [PDF](#pdf)
+
 ##Workflows
 
 <i>Packages that do process, procedure and/or business tasks management.</i>
