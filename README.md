@@ -11,6 +11,25 @@ It can be useful for companies automating their internal workflows to make life 
 * <a href="https://github.com/carlio/django-flows/">django-flows</a> django-flows keeps state and position in complicated flows of logic, allowing optional branches and complicated paths through a series of individual user actions.
 * <a href="https://github.com/kmmbvnr/django-fsm/">django-fsm</a> - Django friendly finite state machine support
 
+##Forms
+
+##Messaging (e-mails, SMS notifications)
+
+* inbox.py - Python SMTP Server for Humans.
+* imbox - Python IMAP for Humans.
+* inbox - The open source email toolkit.
+* lamson - Pythonic SMTP Application Server.
+* flanker - A email address and Mime parsing library.
+* marrow.mailer - High-performance extensible mail delivery framework.
+* django-celery-ses - Django email backend with AWS SES and Celery.
+* modoboa - A mail hosting and management platform including a modern and simplified Web UI.
+* envelopes - Mailing for human beings.
+* mailjet - Mailjet API implementation for batch mailing, statistics and more.
+* Talon - Mailgun library to extract message quotations and signatures.
+* pyzmail - Compose, send and parse emails.
+* <a href="https://github.com/mcoconnor/django-emailtemplates">django-emailtemplates</a> - Send emails based on templates managed through the Django Admin
+* <a href="https://github.com/jleclanche/django-push-notifications">django-push-notifications</a> - A minimal Django app that implements Device models that can send messages through APNS and GCM.
+* <a href="https://github.com/stefanfoulis/django-sendsms">django-sendsms</a> - A simple API to send SMS messages. It is modeled after the django email api.
 
 ##PDF
 
