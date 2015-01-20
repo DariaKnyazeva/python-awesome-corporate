@@ -6,7 +6,7 @@ It can be useful for companies automating their internal workflows to make life 
 - [Python Awesome Corporate](#python-awesome-corporate)
     - [Workflows](#workflows)
     - [Forms](#forms)
-    - [Messaging](#messaging-(e-mails,-sms-notifications))
+    - [Messaging](#messaging)
     - [PDF](#pdf)
 
 ##Workflows
@@ -19,7 +19,9 @@ It can be useful for companies automating their internal workflows to make life 
 
 ##Forms
 
-##Messaging (e-mails, SMS notifications)
+##Messaging
+
+<i>E-mails, SMS notifications</i>
 
 * inbox.py - Python SMTP Server for Humans.
 * imbox - Python IMAP for Humans.
