@@ -6,7 +6,7 @@ It can be useful for companies automating their internal workflows to make life 
 - [Python Awesome Corporate](#python-awesome-corporate)
     - [Workflows](#workflows)
     - [Forms](#forms)
-    - [Messaging](#messaging)
+    - [Messaging](#messaging-(e-mails,-sms-notifications))
     - [PDF](#pdf)
 
 ##Workflows
