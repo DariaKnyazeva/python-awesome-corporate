@@ -13,6 +13,7 @@ It can be useful for companies automating their internal workflows to make life 
     - [PDF](#pdf)
     - [Laws, Taxes, Government policies](#laws-taxes-government-policies)
         - [Norway](#norway)
+        - [EU](#eu)
 
 ##Workflows
 
@@ -55,5 +56,7 @@ It can be useful for companies automating their internal workflows to make life 
 
 ##Laws, Taxes, Government policies
 
+### EU
+ * <a href=https://pypi.python.org/pypi/pyvat/1.2.0>pyvat</a> - validation of VAT numbers
 ### Norway
  * <a href="https://github.com/wbond/vat_moss-python">VAT</a> - a Python library for dealing with VAT MOSS and Norway VAT on digital services. Includes VAT ID validation, rate calculation based on place of supply, exchange rate and currency tools for invoices.
