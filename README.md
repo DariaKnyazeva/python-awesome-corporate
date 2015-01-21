@@ -72,3 +72,17 @@ It can be useful for companies automating their internal workflows to make life 
  
 ### Norway
  * <a href="https://github.com/wbond/vat_moss-python">VAT</a> - a Python library for dealing with VAT MOSS and Norway VAT on digital services. Includes VAT ID validation, rate calculation based on place of supply, exchange rate and currency tools for invoices.
+ 
+
+## Data Visualization
+<i>Libraries for visualizing data. See: <a href="https://github.com/sorrycc/awesome-javascript#data-visualization">awesome-javascript's Data Visualization section</a>.</i>
+
+* <a href="http://matplotlib.org/">matplotlib</a> - a Python 2D plotting library.
+* <a href="https://github.com/ContinuumIO/bokeh">bokeh</a> - interactive Web Plotting for Python.
+* <a href="https://plot.ly/python">plotly</a> - collaborative web plotting for Python and matplotlib.
+* <a href="https://github.com/wrobstory/vincent">vincent</a> - a Python to Vega translator.
+* <a href="https://github.com/mikedewar/d3py">d3py</a> - a plottling library for Python, based on D3.js.
+* <a href="https://github.com/yhat/ggplot">ggplot</a> - same API as ggplot2 for R.
+* <a href="https://github.com/kartograph/kartograph.py">Kartograph.py</a> - rendering beautiful SVG maps in Python.
+* <a href="http://pygal.org/">pygal</a> - A Python SVG Charts Creator.
+* <a href="https://pypi.python.org/pypi/pygraphviz">pygraphviz</a> - Python interface to Graphviz.
