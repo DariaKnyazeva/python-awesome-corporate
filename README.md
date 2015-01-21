@@ -15,6 +15,17 @@ It can be useful for companies automating their internal workflows to make life 
         - [EU](#eu)
         - [Norway](#norway)
 
+##E-commerce
+<i>Frameworks and libraries for e-commerce and payments.</i>
+
+* <a href="http://oscarcommerce.com/">django-oscar</a> - an open-source e-commerce framework for Django.
+* <a href="https://www.django-cms.org/">django-shop</a> - a Django based shop system.
+* <a href="https://github.com/agiliq/merchant">merchant</a> - a Django app to accept payments from various payment processors.
+* <a href="https://github.com/carlospalol/money">money</a> - Money class with optional CLDR-backed locale-aware formatting and an extensible currency exchange solution.
+* <a href="https://pypi.python.org/pypi/django-paypal">django-paypal</a> - a pluggable Django application for integrating PayPal Payments Standard or Payments Pro
+* <a href="https://github.com/FundedByMe/django-paypal-adaptive">django-paypal-adaptive</a> - PayPal preapproval and splitted payments.
+* <a href="https://github.com/zen4ever/django-authorizenet">django-authorizenet</a> - Django and Authorize.NET payment gateway integration.
+
 ##Workflows
 
 <i>Packages that do process, procedure and/or business tasks management.</i>
